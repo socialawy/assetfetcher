@@ -26,11 +26,6 @@ Welcome to Asset Fetcher support! We're here to help you make the most of our as
 
 ### Primary Support Channels
 
-#### 📧 Email Support
-- **Email**: support@assetfetcher.com
-- **Response Time**: Within 24-48 hours
-- **Best For**: Bug reports, account issues, feature requests
-
 #### 💬 Community Support
 - **GitHub Discussions**: [Join the conversation](https://github.com/socialawy/assetfetcher/discussions)
 - **GitHub Issues**: [Report problems](https://github.com/socialawy/assetfetcher/issues)

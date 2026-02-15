@@ -180,13 +180,28 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## � Community Standards
 
-- **Unsplash** - For providing amazing photography
-- **Pexels** - For high-quality stock media
-- **Pixabay** - For diverse asset collection
-- **Poly Haven** - For incredible 3D assets and HDRIs
-- **shadcn/ui** - For beautiful UI components
+This project follows open-source best practices:
+
+### 📋 Documentation
+- **[README.md](README.md)** - Comprehensive project overview
+- **[CONTRIBUTING.md](CONTRIBUTING.md)** - Development guidelines
+- **[CHANGELOG.md](CHANGELOG.md)** - Version history and release notes
+- **[docs/API.md](docs/API.md)** - API integration guide
+- **[docs/DEPLOYMENT.md](docs/DEPLOYMENT.md)** - Deployment options
+- **[docs/TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md)** - Common issues and solutions
+- **[docs/SUPPORT.md](docs/SUPPORT.md)** - Support documentation
+
+### 🔒 Security & Governance
+- **[SECURITY.md](SECURITY.md)** - Security policy and reporting
+- **[CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)** - Community guidelines
+- **[.github/PULL_REQUEST_TEMPLATE.md](.github/PULL_REQUEST_TEMPLATE.md)** - PR template
+
+### 🚀 GitHub Features
+- **Issue Templates** - Structured bug reports and feature requests
+- **CI/CD Pipeline** - Automated testing and deployment
+- **Professional Repository** - Complete open-source setup
 
 ## 📞 Support
 
@@ -195,6 +210,21 @@ If you encounter any issues or have questions:
 1. Check the [Issues](https://github.com/yourusername/asset-fetcher/issues) page
 2. Create a new issue with detailed information
 3. Join our [Discussions](https://github.com/yourusername/asset-fetcher/discussions) for questions
+
+### 📚 Additional Resources
+- [API Documentation](docs/API.md)
+- [Deployment Guide](docs/DEPLOYMENT.md)
+- [Contributing Guide](../CONTRIBUTING.md)
+- [Security Policy](../SECURITY.md)
+- [Support Documentation](../SUPPORT.md)
+
+## 🙏 Acknowledgments
+
+- **Unsplash** - For providing amazing photography
+- **Pexels** - For high-quality stock media
+- **Pixabay** - For diverse asset collection
+- **Poly Haven** - For incredible 3D assets and HDRIs
+- **shadcn/ui** - For beautiful UI components
 
 ---
 
